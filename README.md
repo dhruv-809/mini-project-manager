@@ -299,4 +299,4 @@ Check browser console and server logs
 Create an issue with detailed error information
 
 
-Happy Project Managing! 🎉
+Happy Project Managing! 
